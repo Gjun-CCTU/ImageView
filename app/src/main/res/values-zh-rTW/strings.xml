@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GjunImageView</string>
+    <string name="x2">啟動</string>
+    <string name="j1">電源啟動!</string>
+    <string name="x0">電源開關</string>
+    <string name="j2">電源關閉</string>
+    <string name="x1">關閉</string>
+</resources>

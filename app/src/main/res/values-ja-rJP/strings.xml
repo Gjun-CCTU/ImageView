@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GjunImageView</string>
+    <string name="x2">開始する</string>
+    <string name="j1">電源オン！</string>
+    <string name="x0">"電源スイッチ "</string>
+    <string name="j2">"電源を切る "</string>
+    <string name="x1">"閉じる "</string>
+</resources>

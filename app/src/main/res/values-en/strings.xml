@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GjunImageView</string>
+    <string name="j1">power open!</string>
+    <string name="j2">power close</string>
+    <string name="x0">power</string>
+    <string name="x1">close</string>
+    <string name="x2">open</string>
+</resources>
